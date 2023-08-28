@@ -10,6 +10,7 @@ public class PathsExamples {
 	public static void main(String[] args) {
 		// waysToCreatePathObjects();
 		//InteroperabilityFileAndPaths();
+		
 	}
 
 	private static void InteroperabilityFileAndPaths() {
